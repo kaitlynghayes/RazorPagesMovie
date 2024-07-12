@@ -10,7 +10,7 @@ namespace RazorPagesMovie.Models
     {
         public int Id { get; set; }
         public string? Title { get; set; }
-        [DataType(DataType.Date)]
+        [DataType(DataType.Date)] // Required to just use date , not the time.
         public DateTime ReleaseDate { get; set; }
         public string? Genre { get; set; }
         public decimal Price { get; set; }
