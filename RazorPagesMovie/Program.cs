@@ -18,7 +18,7 @@ app.UseStaticFiles();
 
 app.UseRouting();
 
-app.UseAuthorization();
+app.UseAuthorization(); // This app won't use authorization
 
 app.MapRazorPages();
 
