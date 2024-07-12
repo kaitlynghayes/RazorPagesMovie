@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/kaitlynhayes/Documents/Projects/PracticeProjects/RazorPagesMovie/RazorPagesMovie/RazorPagesMovie.csproj": {}
+    "/Users/kaitlynhayes/Documents/Projects/PracticeProjects/RazorPagesMovieRepo/RazorPagesMovie/RazorPagesMovie.csproj": {}
   },
   "projects": {
-    "/Users/kaitlynhayes/Documents/Projects/PracticeProjects/RazorPagesMovie/RazorPagesMovie/RazorPagesMovie.csproj": {
+    "/Users/kaitlynhayes/Documents/Projects/PracticeProjects/RazorPagesMovieRepo/RazorPagesMovie/RazorPagesMovie.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/kaitlynhayes/Documents/Projects/PracticeProjects/RazorPagesMovie/RazorPagesMovie/RazorPagesMovie.csproj",
+        "projectUniqueName": "/Users/kaitlynhayes/Documents/Projects/PracticeProjects/RazorPagesMovieRepo/RazorPagesMovie/RazorPagesMovie.csproj",
         "projectName": "RazorPagesMovie",
-        "projectPath": "/Users/kaitlynhayes/Documents/Projects/PracticeProjects/RazorPagesMovie/RazorPagesMovie/RazorPagesMovie.csproj",
+        "projectPath": "/Users/kaitlynhayes/Documents/Projects/PracticeProjects/RazorPagesMovieRepo/RazorPagesMovie/RazorPagesMovie.csproj",
         "packagesPath": "/Users/kaitlynhayes/.nuget/packages/",
-        "outputPath": "/Users/kaitlynhayes/Documents/Projects/PracticeProjects/RazorPagesMovie/RazorPagesMovie/obj/",
+        "outputPath": "/Users/kaitlynhayes/Documents/Projects/PracticeProjects/RazorPagesMovieRepo/RazorPagesMovie/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/kaitlynhayes/.nuget/NuGet/NuGet.Config"
