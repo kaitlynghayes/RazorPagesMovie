@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/kaitlynhayes/Documents/Projects/PracticeProjects/RazorPagesMovie/RazorPagesMovie/RazorPagesMovie.csproj": {}
+    "/Users/kaitlynhayes/Documents/Projects/PracticeProjects/RazorPagesMovieRepo/RazorPagesMovie/RazorPagesMovie.csproj": {}
   },
   "projects": {
-    "/Users/kaitlynhayes/Documents/Projects/PracticeProjects/RazorPagesMovie/RazorPagesMovie/RazorPagesMovie.csproj": {
+    "/Users/kaitlynhayes/Documents/Projects/PracticeProjects/RazorPagesMovieRepo/RazorPagesMovie/RazorPagesMovie.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/kaitlynhayes/Documents/Projects/PracticeProjects/RazorPagesMovie/RazorPagesMovie/RazorPagesMovie.csproj",
+        "projectUniqueName": "/Users/kaitlynhayes/Documents/Projects/PracticeProjects/RazorPagesMovieRepo/RazorPagesMovie/RazorPagesMovie.csproj",
         "projectName": "RazorPagesMovie",
-        "projectPath": "/Users/kaitlynhayes/Documents/Projects/PracticeProjects/RazorPagesMovie/RazorPagesMovie/RazorPagesMovie.csproj",
+        "projectPath": "/Users/kaitlynhayes/Documents/Projects/PracticeProjects/RazorPagesMovieRepo/RazorPagesMovie/RazorPagesMovie.csproj",
         "packagesPath": "/Users/kaitlynhayes/.nuget/packages/",
-        "outputPath": "/Users/kaitlynhayes/Documents/Projects/PracticeProjects/RazorPagesMovie/RazorPagesMovie/obj/",
+        "outputPath": "/Users/kaitlynhayes/Documents/Projects/PracticeProjects/RazorPagesMovieRepo/RazorPagesMovie/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/kaitlynhayes/.nuget/NuGet/NuGet.Config"
@@ -43,6 +43,32 @@
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[8.0.7, )"
+            },
+            "Microsoft.EntityFrameworkCore.SQLite": {
+              "target": "Package",
+              "version": "[8.0.7, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[8.0.7, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[8.0.7, )"
+            },
+            "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
+              "target": "Package",
+              "version": "[8.0.3, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
